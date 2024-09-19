@@ -15,7 +15,7 @@ class MyApp extends StatefulWidget {
 }
 
 class MyAppState extends State<MyApp> {
-  String resultStr1 = "결과 값";
+  String resultStr1 = "결과 값ㅇㅇ";
   late Map<String, dynamic> map1;
 
   void onPressDecode() {
